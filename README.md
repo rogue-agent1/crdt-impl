@@ -1,9 +1,11 @@
 # crdt-impl
 
-Zero-dependency Python implementation.
+CRDT (Conflict-free Replicated Data Types).
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
-python3 crdt_impl.py
+python3 crdt_impl.py --help
 ```
